@@ -1,0 +1,13 @@
+edu.pjatk.postman
+edu.pjatk.postman.controller.main
+edu.pjatk.postman.controller.param
+edu.pjatk.postman.controller.param.model
+edu.pjatk.postman.controller.request
+edu.pjatk.postman.controller.request.model
+edu.pjatk.postman.controller.response
+edu.pjatk.postman.controller.response.model
+edu.pjatk.postman.controller.user
+edu.pjatk.postman.controller.user.model
+edu.pjatk.postman.repository
+edu.pjatk.postman.repository.model
+edu.pjatk.postman.service
