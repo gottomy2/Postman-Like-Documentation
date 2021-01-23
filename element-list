@@ -6,6 +6,8 @@ edu.pjatk.postman.controller.request
 edu.pjatk.postman.controller.request.model
 edu.pjatk.postman.controller.response
 edu.pjatk.postman.controller.response.model
+edu.pjatk.postman.controller.scenario
+edu.pjatk.postman.controller.scenario.model
 edu.pjatk.postman.controller.user
 edu.pjatk.postman.controller.user.model
 edu.pjatk.postman.repository
